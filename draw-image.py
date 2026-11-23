@@ -164,7 +164,7 @@ STORIES = [
      "Drones hit homes and a UN building in the Sudanese capital; 4 people are killed."),
     ("factory", (200, 90, 23), "ASIA \u00b7 DISASTER",
      ["FACTORY FIRE", "3 DEAD, 37 MISSING"],
-     "Rescuers search the ruins of a candy plant in Cikande, Indonesia, after Saturday\u2019s blaze."),
+     "Rescuers search the ruins of a candy plant in Cikande, Indonesia; 37 workers are still unaccounted for."),
 ]
 
 FOOTER = "Every story above happened or was first reported on 22 November 2026."
